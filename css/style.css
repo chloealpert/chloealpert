@@ -391,19 +391,16 @@ p{
 }
 
 #slide1{
-	 background:url('../images/rocks3.jpg') no-repeat left center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+	background:#333333;
 }
 
 #slide1 h1 {
 	line-height: 1em;
 	padding-bottom: 20px;
+	margin-top: -15px;
 }
 #slide1 h2 {
-	line-height: 1em;
+	line-height: 1.3em;
 
 }
 #slide2 h1 {
