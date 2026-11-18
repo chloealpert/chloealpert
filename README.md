@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. Nosey aren't you? I like people like you. 
 
 <!--
 **chloealpert/chloealpert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
